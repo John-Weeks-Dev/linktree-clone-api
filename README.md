@@ -1,4 +1,4 @@
-# Linktree Clone / PWA (linktree-clone-api)
+# Linktree Clone API / PWA (linktree-clone-api)
 
 ### Learn how to build this!
 
